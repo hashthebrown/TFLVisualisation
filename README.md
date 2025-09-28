@@ -8,8 +8,6 @@ The other pages are of the same data only presented differently, the second page
 The final page is the average station entries based on the 5 years of data but in a graph form rather than a map form so its more precise and visualises the data differently.
 
 
-I have 
-
 
 
 # Data Sources 
